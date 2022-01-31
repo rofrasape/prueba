@@ -1,0 +1,4 @@
+com\viewnext\cursomvc\holamundo\controlador\HolaMundoController.class
+com\viewnext\cursomvc\holamundo\configuracion\SpringMvcDispatcherServletInitializer.class
+com\viewnext\cursomvc\holamundo\configuracion\AppConfig.class
+com\viewnext\cursomvc\holamundo\modelo\HolaMundo.class
